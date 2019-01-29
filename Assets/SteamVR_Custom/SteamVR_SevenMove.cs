@@ -71,8 +71,9 @@ public class SteamVR_SevenMove : MonoBehaviour {
         }
         angleDelta = (angle - prevAngle) * rotSpeed;
 
-        //if (steamCtlMain.gripped && steamCtlAlt.gripped) {
-        if (steamCtlAlt.triggerPressed) {
+        // * * * * * * * * * *
+        if (steamCtlMain.gripped || steamCtlAlt.gripped) {
+        // * * * * * * * * * *
             if (useCenterObj) centerRen.enabled = true;
 
             doScale();
