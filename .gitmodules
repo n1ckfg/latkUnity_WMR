@@ -4,3 +4,6 @@
 [submodule "Assets/latkxSteamVR"]
 	path = Assets/latkxSteamVR
 	url = https://github.com/n1ckfg/latkxSteamVR
+[submodule "Assets/latkxColorPicker"]
+	path = Assets/latkxColorPicker
+	url = https://github.com/n1ckfg/latkxColorPicker
