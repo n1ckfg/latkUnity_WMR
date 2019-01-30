@@ -1,10 +1,9 @@
-latkUnity_Vive
+latkUnity_WMR
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 <pre>
-Unity version: 2017.3
-SteamVR plugin version: 1.??
-Note: The Vive example currently has the most functionality.
-Potential: High. Vive controllers are the best consumer motion tracking tech available.
+Unity version: 2018.2
+SteamVR plugin version: 1.2.3
+Potential: High. Fairly low tracking quality, but fully interoperable with Vive.
 </pre>
 
