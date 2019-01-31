@@ -7,3 +7,6 @@
 [submodule "Assets/latkxColorPicker"]
 	path = Assets/latkxColorPicker
 	url = https://github.com/n1ckfg/latkxColorPicker
+[submodule "Assets/latkxWacom"]
+	path = Assets/latkxWacom
+	url = https://github.com/n1ckfg/latkxWacom
