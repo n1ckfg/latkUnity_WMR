@@ -13,3 +13,6 @@
 [submodule "Assets/latkxNetwork"]
 	path = Assets/latkxNetwork
 	url = https://github.com/n1ckfg/latkxNetwork
+[submodule "Assets/latkxExtras"]
+	path = Assets/latkxExtras
+	url = https://github.com/LightningArtist/latkxExtras
